@@ -1,2 +1,2 @@
-# portofolio
-My Personal Potofolio Website
+# portfolio
+Potofolio website - My own template
